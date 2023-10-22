@@ -1,0 +1,17 @@
+[
+  "test_pet_friends.py::test_add_new_pet_age",
+  "test_pet_friends.py::test_add_new_pet_invalid_photo",
+  "test_pet_friends.py::test_add_new_pet_long_name",
+  "test_pet_friends.py::test_add_new_pet_not_animal_type",
+  "test_pet_friends.py::test_add_new_pet_not_name",
+  "test_pet_friends.py::test_add_new_pet_with_valid_data",
+  "test_pet_friends.py::test_add_new_pet_with_valid_data_without_photo",
+  "test_pet_friends.py::test_add_new_pet_without_photo",
+  "test_pet_friends.py::test_add_photo_of_pets",
+  "test_pet_friends.py::test_get_all_pets_with_invalid_key",
+  "test_pet_friends.py::test_get_all_pets_with_valid_key",
+  "test_pet_friends.py::test_get_api_key_for_invalid_user",
+  "test_pet_friends.py::test_get_api_key_for_valid_user",
+  "test_pet_friends.py::test_successful_delete_self_pet",
+  "test_pet_friends.py::test_successful_update_self_pet_info"
+]
